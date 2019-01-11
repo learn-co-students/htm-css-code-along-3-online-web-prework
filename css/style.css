@@ -1,0 +1,30 @@
+
+/*This is a comment
+*/
+/* CSS Syntax
+
+Selector  {
+  property: value;
+  property: value;
+}
+
+*/
+
+/* Type selector */
+
+p {
+  font-size: 1em;
+  line-heigth: 1.5em;
+  
+}
+
+figcaption {
+  /*font-weight: normal;
+  font-size: 0.75em;
+  line-height: 0.5em;
+  font-family: Georgia, "New Times New Roman", Serif;*/
+  font: normal 0.75em/0.5em Georgia, "New Times New Roman", Serif;
+  color: #777;
+  text-align: right;
+  
+}
