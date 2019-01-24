@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css?family=Elsie+Swash+Caps:400,900');
+@import url('https://fonts.googleapis.com/css?family=Clicker+Script');
+
+/*This is a comment!*/
+
+/*
+CSS Syntax:
+
+selector {
+  property: value;
+  property: value;
+}
+
+*/
+
+/* Type selector */
+p { /*select all <p> */
+    font-size: 16px; /* 16px(exact) or ?pt(different in apps) or 100% (relative, depends on element and parents) or 1em */
+    line-height: 1.5em;
+}
+/* em = px/16 */
+
+figcaption {
+  font-weight: normal;
+  font-size: 0.75em
+  line-height: 1.5em
+  font-family: 'Elsie Swash Caps', cursive; /* "Quotes are due to spaces existence" */
+  /* Can also use one line below */
+  /* font: normal 0.75em/1.5em Georgia, "New Times Roman", serif; */
+  color: #FF0000; /* Something like #AACC77 can be shorthanded as #AC7 */
+  text-align: right;
+}
+
+/* Class selector (applied to as many elements as you like) */
+
+.milk-text { /*select elements with class="milk-text" */
+  font: bold 2.6em 'Elsie Swash Caps', cursive;
+  color: white;
+  text-shadow: 0 2px 3px #000;
+}
+
+
+/* ID selector (apply to one unique element per page) */
+#logo {
+  background: aqua;
+}
+
+/* Descendent Selector */
+/* selects <h1> if inside the id="logo" */
+#logo h1 {
+  font-family: 'Clicker Script', cursive;
+}
+
+#logo h2 {
+  font-family: 'Elsie Swash Caps', cursive;
+}
+
+
+
+
+/*end*/
