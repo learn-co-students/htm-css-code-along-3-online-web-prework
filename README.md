@@ -2,7 +2,7 @@
 
 In this code along exercise we will be adding style to our pages using external CSS.
 
-## Steps
+## Step
 
 1. Fork this repository.
 2. Clone your fork.
