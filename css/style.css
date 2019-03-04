@@ -1,0 +1,26 @@
+/*CSS Syntax: 
+selector {
+    property: value;
+    property: value;
+}
+*/
+
+/* Type selector: (selects elements using their tag name) */
+/* below selects all <p> */
+p { 
+    font-size: 16px; /* could be 16px,(same in all browsers and equal to 1em) ?pt, 100%, 1em */
+    line-height: 1.5em;
+}
+
+figcaption {
+    /*font-weight: normal;
+    font-size: 0.75;
+    line-height: 1.5em;
+    font-family: Georgia, "New Times Roman", serif;*/
+    font: normal 0.75/1.5em Georgia, "New Times Roman", serif;
+    color: #777;
+    text-align: right;
+}
+
+
+ 
