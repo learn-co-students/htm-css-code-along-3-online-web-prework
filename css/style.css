@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Elsie+Swash+Caps');
+@import url('https://fonts.googleapis.com/css?family=Elsie+Swash+Caps');
+
 /*CSS Syntax: 
 selector {
     property: value;
@@ -17,10 +20,32 @@ figcaption {
     font-size: 0.75;
     line-height: 1.5em;
     font-family: Georgia, "New Times Roman", serif;*/
-    font: normal 0.75/1.5em Georgia, "New Times Roman", serif;
+    font: normal 0.75/1.5em "Elsie Swash Caps", cursive;
     color: #777;
     text-align: right;
 }
+
+/* Class Selector (applied to as many elements as you like)*/
+.milk-text {   /* select elements with class="milk-text" */
+    font: bold 2.6em "Elsie Swash Caps", cursive; 
+    color: white;
+    text-shadow: 0 2px 3px #000;
+}
+
+/* ID selector (apply to one unique(id) element per page) */
+#logo {   /* select elements with id="logo" */
+    background: aqua;
+}
+
+/* Descendent selector */
+#logo h1 {    /* selects <h1> if inside (note space between #logo and h1 at beginning of this line of code) the id="logo"*/
+    font-family: "Clicker Script", cursive;
+}
+
+#logo h2 {
+    font-family: "Elsie Swash Caps", cursive;
+}
+
 
 
  
