@@ -1,0 +1,540 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"spa",
+				"space-around\tjustify-content"
+			],
+			[
+				"z",
+				"z-index\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"s",
+				"flex-start\tjustify-content"
+			],
+			[
+				"spac",
+				"space-between\tjustify-content"
+			],
+			[
+				"pre",
+				"pre-line\twhite-space"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"v",
+				"video\tTag"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"fle",
+				"inline-flex\tdisplay"
+			],
+			[
+				"n",
+				"normal\twhite-space"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"se",
+				"align-self\tproperty"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"en",
+				"flex-end\talign-items"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"list",
+				"list-style\tproperty"
+			],
+			[
+				"shad",
+				"box-shadow\tproperty"
+			],
+			[
+				"in",
+				"inline-flex\tdisplay"
+			],
+			[
+				"no",
+				"nowrap\twhite-space"
+			],
+			[
+				"ite",
+				"item3"
+			],
+			[
+				"cur",
+				"cursor\tproperty"
+			],
+			[
+				"it",
+				"item3"
+			],
+			[
+				"item",
+				"item1"
+			],
+			[
+				"b",
+				"inline-block\tdisplay"
+			],
+			[
+				"j",
+				"justify-content\tproperty"
+			],
+			[
+				"c",
+				"center\ttext-align"
+			],
+			[
+				"grid-t",
+				"grid-template-areas\tproperty"
+			],
+			[
+				"testim",
+				"testimonial-image"
+			],
+			[
+				"tr",
+				"transform\tproperty"
+			],
+			[
+				"paddin",
+				"padding-top\tproperty"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"lsit",
+				"list-style\tproperty"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"t",
+				"top\tvertical-align"
+			],
+			[
+				"ali",
+				"vertical-align\tproperty"
+			],
+			[
+				"pso",
+				"position\tproperty"
+			],
+			[
+				"met",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pro",
+				"Project: Save As"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"save pr",
+				"Project: Save As"
+			],
+			[
+				"new",
+				"File: New File Relative to Project Root"
+			],
+			[
+				"new fol",
+				"File: New Folder Relative to Project Root"
+			],
+			[
+				"new fil",
+				"File: New File Relative to Project Root"
+			],
+			[
+				"new fo",
+				"File: New Folder Relative to Project Root"
+			],
+			[
+				"new file",
+				"File: New File Relative to Project Root"
+			],
+			[
+				"new folde",
+				"File: New Folder Relative to Project Root"
+			],
+			[
+				"folder",
+				"Project: Add Folder"
+			],
+			[
+				"new fold",
+				"File: New Folder Relative to Project Root"
+			],
+			[
+				"newfol",
+				"File: New Folder Relative to Project Root"
+			],
+			[
+				"newfile",
+				"File: New File Relative to Project Root"
+			],
+			[
+				"file new",
+				"File: New File Relative to Current View"
+			],
+			[
+				"new  fol",
+				"File: New Folder Relative to Project Root"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"html sy",
+				"Set Syntax: HTML"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+			"move",
+			"\"find_under_expand\"",
+			"\"command\": \"find_under_expand\"",
+			"find_under_expand()",
+			"command: find_under_expand",
+			"find_under_expand",
+			"command: find_under_expand",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"clr",
+			"clear",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/jason/dev/exceptional-realty-cal-3/htm-css-code-along-3-online-web-prework"
+	],
+	"file_history":
+	[
+		"/home/jason/dev/exceptional-realty-cal-2/fe-code-along-ex-2-online-web-prework/contact.html",
+		"/home/jason/dev/exceptional-realty-cal-2/fe-code-along-ex-2-online-web-prework/index.html",
+		"/home/jason/dev/pharrel/content.md",
+		"/home/jason/dev/pharrel/index.html",
+		"/home/jason/dev/exceptional-realty/style/style.css",
+		"/home/jason/learn-ruby/flow-control/fizzbuzz.rb",
+		"/home/jason/FCC/RWD/Portfolio/styles.css",
+		"/home/jason/FCC/RWD/Portfolio/main.html",
+		"/home/jason/FCC/RWD/style.css",
+		"/home/jason/FCC/RWD/main.html",
+		"/home/jason/FCC/RWD/secondary.html",
+		"/home/jason/App_Dev/Web_Dev/TinDog/css/styles.css",
+		"/home/jason/App_Dev/Web_Dev/TinDog/index.html",
+		"/home/jason/App_Dev/Web_Dev/BevsBling/index.html",
+		"/home/jason/App_Dev/Web_Dev/CSS-MySite/css/styles.css",
+		"/home/jason/App_Dev/Web_Dev/CSS-MySite/index.html",
+		"/home/jason/Downloads/maik-jonietz-535261-unsplash.jpg",
+		"/home/jason/Downloads/StubCode.html",
+		"/home/jason/App_Dev/Web_Dev/bacon-site/css/styles.css",
+		"/home/jason/App_Dev/Web_Dev/bacon-site/index.html",
+		"/home/jason/App_Dev/Web_Dev/htmlPersonalSite/css/css/styles/css",
+		"/home/jason/App_Dev/Web_Dev/htmlPersonalSite/css/bacon.html",
+		"/home/jason/App_Dev/Web_Dev/htmlPersonalSite/css/styles.css",
+		"/home/jason/App_Dev/Web_Dev/htmlPersonalSite/index.html",
+		"/home/jason/App_Dev/Web_Dev/htmlPersonalSite/hobbies.html",
+		"/home/jason/App_Dev/Web_Dev/htmlPersonalSite/index2.html",
+		"/home/jason/App_Dev/Web_Dev/htmlPersonalSite/contact.html",
+		"/home/jason/.cache/.fr-eehCzL/WD3.5 Bacon Fansite Start Here/index.html",
+		"/home/jason/frontenddev/blitz-web-page/style.css",
+		"/home/jason/frontenddev/blitz-web-page/homepage.html",
+		"/home/jason/frontenddev/blitz-web-page/script.js",
+		"/home/jason/frontenddev/styles/inline.html",
+		"/home/jason/frontenddev/styles/internal.html",
+		"/home/jason/frontenddev/styles/external.html",
+		"/home/jason/frontenddev/styles/main.css",
+		"/home/jason/frontenddev/experiments/site-home.html",
+		"/home/jason/frontenddev/experiments/contact.html",
+		"/home/jason/frontenddev/experiments/main.css",
+		"/home/jason/frontenddev/experiments/index.html",
+		"/home/jason/frontenddev/experiments/form.html",
+		"/home/jason/frontenddev/experiments/navaside.html",
+		"/home/jason/.config/sublime-text-3/Packages/User/input_with_label.sublime-snippet",
+		"/home/jason/frontenddev/experiments/aboutus.html",
+		"/home/jason/.config/sublime-text-3/Packages/User/View In Browser.sublime-settings",
+		"/home/jason/.config/sublime-text-3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/home/jason/.config/sublime-text-3/Installed Packages/0_package_control_loader.sublime-package",
+		"/home/jason/.config/sublime-text-3/Cache/HTML/HTML.sublime-syntax.rcache",
+		"/home/jason/.config/sublime-text-3/Packages/Emmet/Default (Linux).sublime-keymap",
+		"/home/jason/.config/sublime-text-3/Packages/Emmet/Emmet.sublime-settings",
+		"/home/jason/.config/sublime-text-3/Packages/Color Highlighter/ColorHighlighter.sublime-settings"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "exceptional-realty-cal-3.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"con",
+				"contact.html"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"i",
+				"index.html"
+			],
+			[
+				"mar",
+				"market-report.html"
+			],
+			[
+				"real",
+				"real-estate-listings.html"
+			],
+			[
+				"ind",
+				"index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 200.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
