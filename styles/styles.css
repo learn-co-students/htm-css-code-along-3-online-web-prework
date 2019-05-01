@@ -10,7 +10,14 @@ p {
 }
 
 figcaption {
+<<<<<<< HEAD
 	font: normal .75em/1.5em 'Elsie Swash Caps', cursive;
+=======
+	font-weight: normal;
+	font-size: .75em;
+	line-height: 1.5em;
+	font-family: 'Elsie Swash Caps', cursive;
+>>>>>>> 6511e65b464c431ab0f9f564720580a3d1a5fb2e
 	color: #555;
 	text-align: right;
 }
